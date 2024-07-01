@@ -11,7 +11,7 @@ Dataset: [Brief description of the dataset used, e.g., "A housing prices dataset
 Tools and Technologies: Python, Google Colab, Pandas, Scikit-learn
 
 Key Features
-1. 2Loading and preprocessing data from Google Drive using Google Colab
+1. Loading and preprocessing data from Google Drive using Google Colab
 2. Splitting the dataset into training and testing sets
 3. Training a linear regression model
 4. Making predictions and evaluating the model using Mean Squared Error (MSE) and R-squared (R²) metrics
